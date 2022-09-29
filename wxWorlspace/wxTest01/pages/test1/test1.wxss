@@ -1,0 +1,5 @@
+/* pages/test1.wxss */
+text{
+  font-size: large;
+  color: blue;
+}

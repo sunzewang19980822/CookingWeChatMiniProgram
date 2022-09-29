@@ -1,0 +1,3 @@
+<!--pages/test1.wxml-->
+<text>中秋节快乐</text>
+<text>{{info}}</text>
