@@ -1,9 +1,9 @@
-/**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    /**
  * banner数据
  */
 function getBannerData() {
 
-    var arr = ['http://127.0.0.1/images/banner_01.png', '../../images/banner_02.png', '../../images/banner_03.png', '../../images/banner_04.png']
+    var arr = ['../../images/banner_01.png', '../../images/banner_02.png', '../../images/banner_03.png', '../../images/banner_04.png']
     return arr
 }
 /*
@@ -30,27 +30,27 @@ function getIndexNavData(){
             {
                 id:1,
                 icon:"../../images/nav_icon_01.png",
-                title:"推荐1"
+                title:"推荐"
             },
             {
                 id:2,
                 icon:"../../images/nav_icon_02.png",
-                title:"美甲"
+                title:"早餐"
             },
             {
                 id:3,
                 icon:"../../images/nav_icon_03.png",
-                title:"美容"
+                title:"午餐"
             },
             {
                 id:4,
                 icon:"../../images/nav_icon_04.png",
-                title:"美发"
+                title:"晚餐"
             },
             {
                 id:5,
                 icon:"../../images/nav_icon_05.png",
-                title:"美睫"
+                title:"甜点"
             }
         ]
     return arr

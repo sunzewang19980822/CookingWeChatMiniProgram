@@ -1,4 +1,5 @@
 .container{
+    margin: 0;
     background:#fff;
 }
 .ar_coverpath{
@@ -20,11 +21,16 @@
 }
 .ar_cont .ar_cont_h1,
 .ar_cont .ar_cont_price{
+    width: 100%;
     font-size: 32rpx;
     font-weight: 600;
     line-height: 64rpx;
     color:#000;
 }
+.ar_title{
+    justify-content: center;
+}
+
 .ar_cont .ar_cont_price{
     color: #e64340;
     margin-left:60rpx;

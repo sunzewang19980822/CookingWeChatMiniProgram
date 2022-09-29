@@ -10,8 +10,8 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#37383c",
-    "navigationBarTitleText": "美容",
+    "navigationBarBackgroundColor": "#d81e05",
+    "navigationBarTitleText": "菜谱",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
